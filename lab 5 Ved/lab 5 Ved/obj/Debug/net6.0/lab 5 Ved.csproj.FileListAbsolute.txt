@@ -1,0 +1,14 @@
+C:\Users\igorv\source\repos\lab 5 Ved\lab 5 Ved\bin\Debug\net6.0\lab 5 Ved.exe
+C:\Users\igorv\source\repos\lab 5 Ved\lab 5 Ved\bin\Debug\net6.0\lab 5 Ved.deps.json
+C:\Users\igorv\source\repos\lab 5 Ved\lab 5 Ved\bin\Debug\net6.0\lab 5 Ved.runtimeconfig.json
+C:\Users\igorv\source\repos\lab 5 Ved\lab 5 Ved\bin\Debug\net6.0\lab 5 Ved.dll
+C:\Users\igorv\source\repos\lab 5 Ved\lab 5 Ved\bin\Debug\net6.0\lab 5 Ved.pdb
+C:\Users\igorv\source\repos\lab 5 Ved\lab 5 Ved\obj\Debug\net6.0\lab 5 Ved.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorv\source\repos\lab 5 Ved\lab 5 Ved\obj\Debug\net6.0\lab 5 Ved.AssemblyInfoInputs.cache
+C:\Users\igorv\source\repos\lab 5 Ved\lab 5 Ved\obj\Debug\net6.0\lab 5 Ved.AssemblyInfo.cs
+C:\Users\igorv\source\repos\lab 5 Ved\lab 5 Ved\obj\Debug\net6.0\lab 5 Ved.csproj.CoreCompileInputs.cache
+C:\Users\igorv\source\repos\lab 5 Ved\lab 5 Ved\obj\Debug\net6.0\lab 5 Ved.dll
+C:\Users\igorv\source\repos\lab 5 Ved\lab 5 Ved\obj\Debug\net6.0\refint\lab 5 Ved.dll
+C:\Users\igorv\source\repos\lab 5 Ved\lab 5 Ved\obj\Debug\net6.0\lab 5 Ved.pdb
+C:\Users\igorv\source\repos\lab 5 Ved\lab 5 Ved\obj\Debug\net6.0\lab 5 Ved.genruntimeconfig.cache
+C:\Users\igorv\source\repos\lab 5 Ved\lab 5 Ved\obj\Debug\net6.0\ref\lab 5 Ved.dll
